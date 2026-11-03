@@ -1,0 +1,2 @@
+run,features,roc_auc,f1_global_oof,f1_group_oof,crossfit_global_f1,crossfit_group_f1,selected_decision,crossfit_selected_f1,precision,recall,threshold_global,threshold_group0,threshold_group1
+M3-02,93,0.845421812805838,0.7736407222278894,0.7744033964460575,0.7726915319134389,0.7729225399382468,group,0.7729225399382468,0.7317846512229843,0.8222933178215662,0.375,0.42,0.37

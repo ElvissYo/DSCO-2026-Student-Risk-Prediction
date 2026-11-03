@@ -1,0 +1,13 @@
+{
+  "train_sha256": "1d65730e2f8627089cdb4258941324ef0c5ac0d3d0c58045ee1d496218089788",
+  "test_sha256": "7bcd123cefe6fb5329f06a5c6bc1aa3bd7ffe58fe9d275c251652bcca03d6ab9",
+  "sample_submission_sha256": "0826a49b91f75d672f1fd9a61a491126f67803a988dcc35b4658e789ceb0b654",
+  "train_rows": 26086,
+  "test_rows": 6502,
+  "python": "3.10.11",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "scikit-learn": "1.7.2",
+  "lightgbm": "4.7.0",
+  "catboost": "1.2.10"
+}

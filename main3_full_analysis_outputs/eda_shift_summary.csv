@@ -1,0 +1,6 @@
+column,train_unique,test_unique,unseen_test_categories,total_variation_distance
+highest_education,5,5,1,0.4394691877961907
+code_module,7,8,1,0.06335944662890486
+has_score,2,2,0,0.020302931460198875
+imd_band,11,11,0,0.020116705519846286
+code_presentation,4,4,0,0.0075553867406800285

@@ -1,0 +1,5 @@
+status,n_rows,missing_avg_score
+raw train,26086,0
+clean train,26086,10046
+raw test,6502,0
+clean test,6502,2636

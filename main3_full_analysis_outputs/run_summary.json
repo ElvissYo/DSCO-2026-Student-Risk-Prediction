@@ -1,0 +1,14 @@
+{
+  "model": "M3-02",
+  "threshold_no_score": 0.42,
+  "threshold_scored": 0.37,
+  "train_n": 26086,
+  "test_n": 6502,
+  "rerun_oof_f1_fixed": 0.7744033964460575,
+  "rerun_oof_auc": 0.845421812805838,
+  "submission_file": "submission_m3_02_group_rerun.csv",
+  "submission_sha256": "ef4cc7b5f8006ca492ade452d7604be420d219a5e0af95da6ce07d07513beb1e",
+  "historical_public_f1_reported": 0.78393,
+  "additional_final_score_visible_on_screenshot": 0.78,
+  "note": "Nilai Kaggle historis tidak dihitung dari test labels di notebook; label reference comparison optional."
+}

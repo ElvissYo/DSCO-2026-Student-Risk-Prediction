@@ -1,0 +1,6 @@
+run,n_features,added_vs_m3_00,masked_avg_score_rows
+M3-00,88,(none),10046
+M3-01,95,"raw_avg_score, raw_max_score, raw_median_score, raw_min_score, raw_score_Assessment_2, raw_score_std, raw_weighted_score_total",10046
+M3-02,93,"score_missing_x_active_days, score_missing_x_activity_inconsistent, score_missing_x_log_volume, score_missing_x_log_week4, score_missing_x_no_submission",10046
+M3-03,93,"score_missing_x_active_days, score_missing_x_activity_inconsistent, score_missing_x_log_volume, score_missing_x_log_week4, score_missing_x_no_submission",10046
+M3-05,93,"score_missing_x_active_days, score_missing_x_activity_inconsistent, score_missing_x_log_volume, score_missing_x_log_week4, score_missing_x_no_submission",10046
